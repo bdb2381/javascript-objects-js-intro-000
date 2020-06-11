@@ -1,8 +1,8 @@
 var playlist = {'King': 'song'}
 
-function updatePlaylist(playlist, Queen, free ){
+function updatePlaylist(playlist, artist, song ){
 
-  playlist[Queen] = free
+  playlist[artist] = song
   console.log(playlist)
   return
 }
