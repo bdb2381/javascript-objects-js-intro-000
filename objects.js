@@ -1,6 +1,6 @@
 var playlist = {'King': 'song'}
 
-function updatePlaylist({playlist, Queen, free ){
+function updatePlaylist(playlist, Queen, free ){
 
 
   return
