@@ -7,7 +7,8 @@ function updatePlaylist(playlist, artist, song ){
   return
 }
 
+
 function removeFromPlaylist(playlist, Slowdive){
-return  delete playlist.Slowdive
+  return  delete playlist.Slowdive
 
 }
